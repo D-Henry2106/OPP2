@@ -1,4 +1,4 @@
-﻿namespace OPP2
+﻿namespace OOP2
 {
     internal class Program
     {
